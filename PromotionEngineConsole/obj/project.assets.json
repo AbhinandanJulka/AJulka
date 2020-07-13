@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsole\\PromotionEngineConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsole\\PromotionEngineConsole.csproj",
       "projectName": "PromotionEngineConsole",
-      "projectPath": "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsole\\PromotionEngineConsole.csproj",
+      "projectPath": "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsole\\PromotionEngineConsole.csproj",
       "packagesPath": "C:\\Users\\Abhinandan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsole\\obj\\",
+      "outputPath": "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhinandan\\AppData\\Roaming\\NuGet\\NuGet.Config",

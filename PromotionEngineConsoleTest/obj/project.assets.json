@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsoleTest\\PromotionEngineConsoleTest.csproj",
+      "projectUniqueName": "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsoleTest\\PromotionEngineConsoleTest.csproj",
       "projectName": "PromotionEngineConsoleTest",
-      "projectPath": "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsoleTest\\PromotionEngineConsoleTest.csproj",
+      "projectPath": "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsoleTest\\PromotionEngineConsoleTest.csproj",
       "packagesPath": "C:\\Users\\Abhinandan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsoleTest\\obj\\",
+      "outputPath": "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsoleTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhinandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsole\\PromotionEngineConsole.csproj": {
-              "projectPath": "C:\\Users\\Abhinandan\\source\\repos\\PromotionEngineConsole\\PromotionEngineConsole\\PromotionEngineConsole.csproj"
+            "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsole\\PromotionEngineConsole.csproj": {
+              "projectPath": "C:\\Users\\Abhinandan\\source\\repos\\AJulka\\PromotionEngineConsole\\PromotionEngineConsole.csproj"
             }
           }
         }
