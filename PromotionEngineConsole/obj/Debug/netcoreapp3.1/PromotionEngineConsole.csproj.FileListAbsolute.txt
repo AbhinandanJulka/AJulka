@@ -1,0 +1,12 @@
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\bin\Debug\netcoreapp3.1\PromotionEngineConsole.exe
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\bin\Debug\netcoreapp3.1\PromotionEngineConsole.deps.json
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\bin\Debug\netcoreapp3.1\PromotionEngineConsole.runtimeconfig.json
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\bin\Debug\netcoreapp3.1\PromotionEngineConsole.runtimeconfig.dev.json
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\bin\Debug\netcoreapp3.1\PromotionEngineConsole.dll
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\bin\Debug\netcoreapp3.1\PromotionEngineConsole.pdb
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\obj\Debug\netcoreapp3.1\PromotionEngineConsole.AssemblyInfoInputs.cache
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\obj\Debug\netcoreapp3.1\PromotionEngineConsole.AssemblyInfo.cs
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\obj\Debug\netcoreapp3.1\PromotionEngineConsole.csproj.CoreCompileInputs.cache
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\obj\Debug\netcoreapp3.1\PromotionEngineConsole.dll
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\obj\Debug\netcoreapp3.1\PromotionEngineConsole.pdb
+C:\Users\Abhinandan\source\repos\PromotionEngineConsole\PromotionEngineConsole\obj\Debug\netcoreapp3.1\PromotionEngineConsole.genruntimeconfig.cache
